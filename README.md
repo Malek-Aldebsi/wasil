@@ -1,16 +1,63 @@
-# product_list_app
+# Wasil Store
 
-A new Flutter project.
+**Wasil** is a modern Flutter-based shopping app that allows users to browse products, add them to a cart, and complete purchases with a seamless, polished UI experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📦 APK Download
 
-A few resources to get you started if this is your first Flutter project:
+You can install the latest APK directly on your Android device using the link below:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Download Wasil APK](https://we.tl/t-HFH8Pb2vv8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/Malek-Aldebsi/wasil.git
+   ```
+2. Navigate to the project directory:
+
+   ```bash
+   cd wasil
+   ```
+3. Fetch dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+4. Run the app on an emulator or connected device:
+
+   ```bash
+   flutter run
+   ```
+
+---
+
+## ✨ Features
+
+* **Product Catalog**: Browse through a grid of products with filter and sort options.
+* **Cart Management**: Add, remove, and update quantities of items in your cart.
+* **User Authentication**: Secure login and signup flow with Firebase Auth.
+* **Splash & Error Screens**: Engaging animations during loading and friendly feedback on failures.
+* **Responsive UI**: Designed to look great on various screen sizes and orientations.
+
+---
+
+## 💡 Future Enhancements
+
+* Email verification flow
+* Enhanced filter, sort, and search capabilities
+* Suggested or similar items on the product detail screen
+* User sessions and remember-me functionality
+* Image caching for faster load times
+* Stock-based purchase limits
+
+---
+
+## ❓ Need Help or More Info?
+
+Feel free to reach out or open an issue if you have any questions, suggestions, or need additional information about the Wasil app.

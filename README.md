@@ -8,7 +8,7 @@
 
 You can install the latest APK directly on your Android device using the link below:
 
-[Download Wasil APK](https://we.tl/t-HFH8Pb2vv8)
+[Download Wasil APK](https://drive.google.com/file/d/130QI8mvSqMKVCS1Pf25oCx33zcv2iJy7/view?usp=sharing)
 
 ---
 

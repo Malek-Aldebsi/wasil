@@ -1,0 +1,8 @@
+-- Future Updates:
+    - Email Verification
+    - Enhanced Filter, Sort & Search
+    - Show similar or recommended products on the details screen
+    - User Sessions
+    - Cache Images in splash screen
+    - Stock-Based Purchase Limits
+    - Prevent ordering more than the available inventory
